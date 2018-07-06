@@ -2,6 +2,8 @@
 
 Came across this a while back. Some vendors implemented fixes, some haven't, some said it's a non-issue, some weren't tested. Obivously, can depend on configuration of product you're facing. Number of prompts make it less that ideal...
 
+Disclosed: https://www.mimecast.com/responsible-disclosure/
+
 The script will null the first 2 bytes of a word document. 
 
 - Create new word document

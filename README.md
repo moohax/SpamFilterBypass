@@ -10,4 +10,4 @@ The script will null the first 2 bytes of a word document.
 - Save
 - Open the document
 - Repair it
-- Execute macro
+- Enable content
